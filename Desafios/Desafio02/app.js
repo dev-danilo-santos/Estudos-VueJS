@@ -7,8 +7,8 @@
         alerta(){
             window.alert("Exibindo alerta");
         },
-        armazena(e){
-            this.valor= e.target.value; 
-        }
+        // armazena(e){
+        //     this.valor= e.target.value; 
+        // }
     },
 })
